@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Advice_PCB_Windows_Register
 {
-    public partial class Form1 : Form
+    public partial class loginform : Form
     {
-        public Form1()
+        public loginform()
         {
             InitializeComponent();
         }
